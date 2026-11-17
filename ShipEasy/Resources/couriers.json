@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Pathao",
+    "insideDhaka": 60,
+    "outsideDhaka": 120,
+    "perExtraKg": 20,
+    "note": "Sample rate data"
+  },
+  {
+    "name": "Steadfast",
+    "insideDhaka": 70,
+    "outsideDhaka": 130,
+    "perExtraKg": 25,
+    "note": "Sample rate data"
+  },
+  {
+    "name": "RedX",
+    "insideDhaka": 65,
+    "outsideDhaka": 125,
+    "perExtraKg": 20,
+    "note": "Sample rate data"
+  },
+  {
+    "name": "Sundarban",
+    "insideDhaka": 50,
+    "outsideDhaka": 110,
+    "perExtraKg": 15,
+    "note": "Sample rate data"
+  }
+]
